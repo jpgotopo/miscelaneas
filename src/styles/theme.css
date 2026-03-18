@@ -1,0 +1,45 @@
+:root {
+  /* Backgrounds */
+  --bg: #f8f3e8;
+  --paper: #f2ebd4;
+  --paper-dark: #e8dfc4;
+  
+  /* Rules */
+  --rule: #c8b490;
+  --rule-faint: #dfd2b4;
+  
+  /* Ink */
+  --ink: #180e02;
+  --ink-mid: #443018;
+  --ink-light: #7a6040;
+  
+  /* Accent */
+  --accent: #7c1e1e;
+  --gold: #9a7c0a;
+  --gold-light: #c9a840;
+  
+  /* Sidebar */
+  --sidebar: #201408;
+  --sidebar-mid: #382210;
+  --sidebar-light: #5a3a1a;
+  --sidebar-text: #ead8b4;
+  --sidebar-muted: #c0a070;
+  
+  /* Tag */
+  --tag-bg: #efe3c0;
+  --tag-border: #c4a060;
+  
+  /* Back */
+  --back-bg: #2a1a08;
+  --back-border: #6b4820;
+  --back-text: #f5d9a0;
+  --back-muted: #b08050;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1208;
+    --paper: #2a1a08;
+    /* etc - add dark mode later */
+  }
+}

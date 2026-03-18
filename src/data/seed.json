@@ -1,0 +1,57 @@
+[
+  {
+    "id": "M-001",
+    "title": "Felicidad",
+    "reference": "Sal 16:11",
+    "body": "La felicidad del hombre consiste en la contemplación y el goce de Dios. No puede haber verdadera satisfacción del alma fuera de aquel que es la fuente de todo bien. La felicidad es proporcional al grado en que el alma se acerca a su fin último, que es Dios mismo.\\n\\nEsta felicidad no es meramente emocional sino ontológica: consiste en la participación de la naturaleza divina (2 Pe 1:4). El alma que conoce a Dios como sumo bien no puede encontrar descanso en ningún bien creado.",
+    "crossRefs": ["Sal 36:8", "Jn 17:3", "1 Jn 3:2"],
+    "relatedMisc": ["M-002"],
+    "partialRefs": ["M-004"],
+    "continuesFrom": "",
+    "continuesTo": "M-045"
+  },
+  {
+    "id": "M-002",
+    "title": "El Gozo de Dios",
+    "reference": "Sof 3:17",
+    "body": "El gozo de Dios en sí mismo es el fundamento de toda creación. Dios se complace infinitamente en su propia excelencia, y es de este gozo que emana la creación del mundo. La gloria de Dios consiste en la emanación y el retorno de su propia plenitud.\\n\\nAsí como el sol no puede dejar de irradiar luz, Dios no puede dejar de comunicar su bondad.",
+    "crossRefs": ["Jn 17:24", "Heb 1:3", "Ro 11:36"],
+    "relatedMisc": ["M-001", "M-004"],
+    "partialRefs": ["M-003"],
+    "continuesFrom": "",
+    "continuesTo": "M-007"
+  },
+  {
+    "id": "M-003",
+    "title": "Justificación",
+    "reference": "Ro 3:24",
+    "body": "La justificación por la fe sola no excluye las obras como evidencia necesaria de la fe verdadera. La fe viva produce frutos, y la justificación es el acto forense por el cual Dios declara justo al creyente sobre la base de la justicia imputada de Cristo.\\n\\nLa fe es el instrumento de la unión con Cristo, no el fundamento.",
+    "crossRefs": ["Gá 2:16", "Stg 2:24", "Ro 4:3"],
+    "relatedMisc": ["M-089"],
+    "partialRefs": [],
+    "continuesFrom": "M-002",
+    "continuesTo": "M-012"
+  },
+  {
+    "id": "M-004",
+    "title": "La Trinidad",
+    "reference": "Mt 28:19",
+    "body": "La Trinidad es la doctrina más sublime de la Escritura. El Padre conoce al Hijo, y este conocimiento es tan perfecto e infinito que engendra al Hijo como imagen perfecta de sí mismo. El Espíritu Santo procede como el amor mutuo y eterno entre el Padre y el Hijo.\\n\\nDios es en sí mismo un ser social y comunicativo.",
+    "crossRefs": ["Jn 1:1", "Jn 14:26", "2 Co 13:14"],
+    "relatedMisc": ["M-002", "M-005"],
+    "partialRefs": ["M-001"],
+    "continuesFrom": "",
+    "continuesTo": "M-019"
+  },
+  {
+    "id": "M-005",
+    "title": "Excelencia de Cristo",
+    "reference": "Col 1:19",
+    "body": "En Cristo habita toda la plenitud de la Deidad corporalmente. Su excelencia es tanto infinita como condescendiente: infinita en cuanto a su naturaleza divina, y condescendiente en cuanto a su humillación voluntaria para nuestra salvación.\\n\\nCristo es la síntesis de los contrarios: el León y el Cordero, el Rey eterno y el Siervo sufriente.",
+    "crossRefs": ["Fil 2:6–8", "Heb 1:3", "Ap 5:5–6"],
+    "relatedMisc": ["M-004"],
+    "partialRefs": [],
+    "continuesFrom": "M-004",
+    "continuesTo": ""
+  }
+]

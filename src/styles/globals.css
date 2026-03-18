@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  background-color: var(--bg, #f8f3e8);
+  color: var(--ink, #180e02);
+  font-family: 'EB Garamond', Georgia, serif;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+
