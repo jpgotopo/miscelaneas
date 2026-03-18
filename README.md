@@ -71,4 +71,3 @@ MIT - ¡Usa libremente!
 
 ---
 
-**Desarrollado con ❤️ por BLACKBOXAI - Arquitectura React profesional desde un solo archivo.**
